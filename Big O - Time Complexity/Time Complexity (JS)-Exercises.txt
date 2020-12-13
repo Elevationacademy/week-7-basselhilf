@@ -1,0 +1,8 @@
+Exercise 1 :-
+o(1)
+Exercise 2 :-
+o(log(n))
+Exercise 3 :-
+error
+Exercise 4 :-
+o(1)
